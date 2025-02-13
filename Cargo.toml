@@ -1,0 +1,19 @@
+[package]
+name = "rivals"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+derive_builder = "0.20.2"
+derive_more = { version = "2.0.1", features = ["full"] }
+reqwest = { version = "0.12.12", features = ["json"] }
+serde = { version = "1.0.217", features = ["derive"] }
+serde-this-or-that = "0.5.0"
+thiserror = "2.0.11"
+tokio = { version = "1.43.0", features = ["full"] }
+url = "2.5.4"
+
+[dev-dependencies]
+dotenv = "0.15.0"
+rstest = "0.24.0"
+serde_json = "1.0.138"

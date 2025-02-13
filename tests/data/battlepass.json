@@ -1,0 +1,384 @@
+{
+  "season": 1,
+  "season_name": "Battlepass Season 1: Darkhold",
+  "items": [
+    {
+      "name": "All-Butcher",
+      "image": "/rivals/battlepass/1/all-butcher.jpg",
+      "cost": "Unlock To Claim",
+      "isLuxury": true
+    },
+    {
+      "name": "Heed My Call",
+      "image": "/rivals/battlepass/1/heed-my-call.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "All-Butcher",
+      "image": "/rivals/battlepass/1/all-butcher.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Mister Fantastic",
+      "image": "/rivals/battlepass/1/mister-fantastic.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "All-Butcher",
+      "image": "/rivals/battlepass/1/all-butcher.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Moon Knight",
+      "image": "/rivals/battlepass/1/blood-moon-knight.jpg",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "End of Everything",
+      "image": "/rivals/battlepass/1/end-of-everything.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Invisible Woman",
+      "image": "/rivals/battlepass/1/invisible-woman.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Rocket Raccoon Emblem",
+      "image": "/rivals/battlepass/1/rocket-raccoon-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Bounty Hunter",
+      "image": "/rivals/battlepass/1/bounty-hunter.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Wanted Raccoon",
+      "image": "/rivals/battlepass/1/wanted-raccoon.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Bounty Hunter",
+      "image": "/rivals/battlepass/1/bounty-hunter.png",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "Bounty Hunter",
+      "image": "/rivals/battlepass/1/bounty-hunter.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blue Tarantula",
+      "image": "/rivals/battlepass/1/blue-tarantula.jpg",
+      "cost": "400",
+      "isLuxury": false
+    },
+    {
+      "name": "Moon Knight Emblem",
+      "image": "/rivals/battlepass/1/moon-knight-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Loki Emblem",
+      "image": "/rivals/battlepass/1/loki-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Peni Parker Emblem",
+      "image": "/rivals/battlepass/1/peni-parker-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "HUMAN TORCH",
+      "image": "/rivals/battlepass/1/human-torch.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Scarlet Witch Emblem",
+      "image": "/rivals/battlepass/1/scarlet-witch-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "King Magnus",
+      "image": "/rivals/battlepass/1/king-magnus.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "MAGNETO EMBLEM",
+      "image": "/rivals/battlepass/1/magneto-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "For All Mutants",
+      "image": "/rivals/battlepass/1/for-all-mutants.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "King Magnus",
+      "image": "/rivals/battlepass/1/king-magnus.png",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "Past No More",
+      "image": "/rivals/battlepass/1/past-no-more.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "King Magnus",
+      "image": "/rivals/battlepass/1/king-magnus.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Darkhold Collectable",
+      "image": "/rivals/battlepass/1/darkhold-collectable.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Namor Emblem",
+      "image": "/rivals/battlepass/1/namor-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Savage Sub-Mariner",
+      "image": "/rivals/battlepass/1/savage-sub-mariner.jpg",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "The Thing",
+      "image": "/rivals/battlepass/1/the-thing.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Iron Man Emblem",
+      "image": "/rivals/battlepass/1/iron-man-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Blood Edge Armor",
+      "image": "/rivals/battlepass/1/blood-edge-armor.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Subway Rat Blaster",
+      "image": "/rivals/battlepass/1/subway-rat-blaster.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Edge Armor",
+      "image": "/rivals/battlepass/1/blood-edge-armor.png",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "Cleansing Edge",
+      "image": "/rivals/battlepass/1/cleansing-edge.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Edge Armor",
+      "image": "/rivals/battlepass/1/blood-edge-armor.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Innocence Reborn",
+      "image": "/rivals/battlepass/1/innocence-reborn.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Blood Soul",
+      "image": "/rivals/battlepass/1/blood-soul.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Adam Warlock Emblem",
+      "image": "/rivals/battlepass/1/adam-warlock-emblem.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Soul",
+      "image": "/rivals/battlepass/1/blood-soul.png",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Soul",
+      "image": "/rivals/battlepass/1/blood-soul.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Cut Divine Ties",
+      "image": "/rivals/battlepass/1/cut-divine-ties.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Emporium Matron",
+      "image": "/rivals/battlepass/1/emporium-matron.jpg",
+      "cost": "400",
+      "isLuxury": false
+    },
+    {
+      "name": "Flamenco",
+      "image": "/rivals/battlepass/1/flamenco.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Emporium Matron",
+      "image": "/rivals/battlepass/1/emporium-matron.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Emporium Matron",
+      "image": "/rivals/battlepass/1/emporium-matron.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Making an Entrance",
+      "image": "/rivals/battlepass/1/making-an-entrance.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "100 Lattice",
+      "image": "/rivals/battlepass/1/100-lattice.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "100 Units",
+      "image": "/rivals/battlepass/1/100-units.png",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Hone Claws",
+      "image": "/rivals/battlepass/1/hone-claws.jpg",
+      "cost": "200",
+      "isLuxury": false
+    },
+    {
+      "name": "Blood Berserker",
+      "image": "/rivals/battlepass/1/blood-berserker.jpg",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Berserker",
+      "image": "/rivals/battlepass/1/blood-berserker.png",
+      "cost": "400",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Berserker",
+      "image": "/rivals/battlepass/1/blood-berserker.png",
+      "cost": "200",
+      "isLuxury": true
+    },
+    {
+      "name": "Blood Barrage",
+      "image": "/rivals/battlepass/1/blood-barrage.jpg",
+      "cost": "200",
+      "isLuxury": true
+    }
+  ]
+}

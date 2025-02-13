@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "battlepass",
+        "collab",
+        "Collab",
+        "dotenv",
+        "Hitscan",
+        "mvps",
+        "reqwest",
+        "rstest",
+        "svps",
+        "thiserror"
+    ],
+    "rust-analyzer.rustfmt.extraArgs": [
+        "+nightly"
+    ],
+}
