@@ -1,0 +1,16 @@
+{
+  "hero_id": 1011,
+  "hero_name": "hulk",
+  "hero_icon": "/heroes/transformations/bruce-banner-headbig-0.webp",
+  "matches": 17084,
+  "wins": 9005,
+  "k": 14.83540154530555,
+  "d": 4.066436431749005,
+  "a": 3.983551861390775,
+  "play_time": "2735h 6m 46s",
+  "total_hero_damage": 203970226.84428254,
+  "total_hero_heal": 12,
+  "total_damage_taken": 479115396.50797594,
+  "session_hit_rate": 0.38946180467728897,
+  "solo_kill": 1.8227581362678529
+}

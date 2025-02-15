@@ -1,15 +1,22 @@
 pub mod client;
+pub mod error;
 pub mod models;
 
-pub use models::{
-    battlepass::*,
-    hero::*,
-    leaderboard::*,
-    Platform,
+pub use crate::{
+    error::{
+        Error,
+        ErrorResponse,
+    },
+    models::{
+        battlepass::*,
+        hero::*,
+        hero_stats::*,
+        item::*,
+        leaderboard::*,
+        match_::*,
+        match_history::*,
+        player_info::*,
+        skin::*,
+        Platform,
+    },
 };
-
-#[derive(Debug, thiserror::Error)]
-#[error(transparent)]
-pub enum Error {
-    Reqwest(#[from] reqwest::Error),
-}

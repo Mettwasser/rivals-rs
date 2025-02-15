@@ -5,8 +5,6 @@ use serde::{
     Deserialize,
 };
 
-pub type Heroes = Vec<Hero>;
-
 #[derive(Deserialize, Debug, Clone, PartialEq)]
 pub struct Hero {
     pub id: String,

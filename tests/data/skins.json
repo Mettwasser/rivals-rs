@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1011001",
+    "name": "Bruce Banner",
+    "icon": "/costumes/bruce-banner-1011001.png",
+    "rarity": "Default",
+    "description": "No description available",
+    "appearance": "No appearance data available"
+  },
+  {
+    "id": "1011100",
+    "name": "Mighty G Bomb",
+    "icon": "/costumes/mighty-g-bomb-1011100.png",
+    "rarity": "Default",
+    "description": "\"Is he a man or monster...or is he both?\"",
+    "appearance": "First Appears in Incredible Hulk (1962) #1"
+  },
+  {
+    "id": "1011501",
+    "name": "Green Scar",
+    "icon": "/costumes/green-scar-1011501.png",
+    "rarity": "Default",
+    "description": "\"This is the story of the Green Scar. The Eye of Anger. The World Breaker...Harkanon, Haarg, Holku...HULK. And how he finally came home.\"",
+    "appearance": "First Appears in Hulk (1999) #92"
+  }
+]

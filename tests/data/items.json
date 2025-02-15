@@ -1,0 +1,5085 @@
+{
+    "total_items": 508,
+    "items": [
+        {
+            "id": "30000001",
+            "name": "Rivals",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/rivals-30000001-icon.webp",
+            "slug": "rivals-30000001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000002",
+            "name": "Progenitor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/progenitor-30000002-icon.webp",
+            "slug": "progenitor-30000002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000003",
+            "name": "Mapmaker",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mapmaker-30000003-icon.webp",
+            "slug": "mapmaker-30000003",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000004",
+            "name": "Elder Of The Universe",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/elder-of-the-universe-30000004-icon.webp",
+            "slug": "elder-of-the-universe-30000004",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000005",
+            "name": "Cosmic Challenger",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/cosmic-challenger-30000005-icon.webp",
+            "slug": "cosmic-challenger-30000005",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000006",
+            "name": "Intergalactic Emperor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/intergalactic-emperor-30000006-icon.webp",
+            "slug": "intergalactic-emperor-30000006",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000007",
+            "name": "Galaxy Master",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galaxy-master-30000007-icon.webp",
+            "slug": "galaxy-master-30000007",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000008",
+            "name": "Starlight Legend",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/starlight-legend-30000008-icon.webp",
+            "slug": "starlight-legend-30000008",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000012",
+            "name": "All God",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/all-god-30000012-icon.webp",
+            "slug": "all-god-30000012",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000013",
+            "name": "Wrath Of Thunder",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/wrath-of-thunder-30000013-icon.webp",
+            "slug": "wrath-of-thunder-30000013",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000014",
+            "name": "Arbiter Of Hel",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/arbiter-of-hel-30000014-icon.webp",
+            "slug": "arbiter-of-hel-30000014",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000015",
+            "name": "Guardian Of Yggsdrasil",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardian-of-yggsdrasil-30000015-icon.webp",
+            "slug": "guardian-of-yggsdrasil-30000015",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000016",
+            "name": "Light Of Alfheim",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/light-of-alfheim-30000016-icon.webp",
+            "slug": "light-of-alfheim-30000016",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000017",
+            "name": "Mrc Champion S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-champion-s0-30000017-icon.webp",
+            "slug": "mrc-champion-s0-30000017",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000018",
+            "name": "Mrc Prime Celestial S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-prime-celestial-s0-30000018-icon.webp",
+            "slug": "mrc-prime-celestial-s0-30000018",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000019",
+            "name": "Mrc Transcendent Will S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-transcendent-will-s0-30000019-icon.webp",
+            "slug": "mrc-transcendent-will-s0-30000019",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000020",
+            "name": "Mrc Immortal Eternal S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-immortal-eternal-s0-30000020-icon.webp",
+            "slug": "mrc-immortal-eternal-s0-30000020",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000021",
+            "name": "Mrc Doomed Descent S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-doomed-descent-s0-30000021-icon.webp",
+            "slug": "mrc-doomed-descent-s0-30000021",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000022",
+            "name": "Marvel Snap Nameplate",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/marvel-snap-nameplate-30000022-icon.webp",
+            "slug": "marvel-snap-nameplate-30000022",
+            "description": "The name plate fit for a MARVEL SNAP veteran",
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000023",
+            "name": "Marvel Puzzle Quest Nameplate",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/marvel-puzzle-quest-nameplate-30000023-icon.webp",
+            "slug": "marvel-puzzle-quest-nameplate-30000023",
+            "description": "The name plate of a cosmic quandary from MARVEL Puzzle Quest",
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000024",
+            "name": "Marvel Future Fight Nameplate",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/marvel-future-fight-nameplate-30000024-icon.webp",
+            "slug": "marvel-future-fight-nameplate-30000024",
+            "description": "The name plate of an original warrior from MARVEL Future Fight ",
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000026",
+            "name": "No One Rivals Doom",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/no-one-rivals-doom-30000026-icon.webp",
+            "slug": "no-one-rivals-doom-30000026",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000027",
+            "name": "Mrc Tribunal Luminary S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-tribunal-luminary-s0-30000027-icon.webp",
+            "slug": "mrc-tribunal-luminary-s0-30000027",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000028",
+            "name": "Mrc Galaxy Incarnation S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-galaxy-incarnation-s0-30000028-icon.webp",
+            "slug": "mrc-galaxy-incarnation-s0-30000028",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000029",
+            "name": "Mrc Living Messenger S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-living-messenger-s0-30000029-icon.webp",
+            "slug": "mrc-living-messenger-s0-30000029",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000030",
+            "name": "Mrc Nexus Defender S0",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-nexus-defender-s0-30000030-icon.webp",
+            "slug": "mrc-nexus-defender-s0-30000030",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000031",
+            "name": "Timeless Twilight",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/timeless-twilight-30000031-icon.webp",
+            "slug": "timeless-twilight-30000031",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000033",
+            "name": "Mrc Champion S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-champion-s1-30000033-icon.webp",
+            "slug": "mrc-champion-s1-30000033",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000034",
+            "name": "Mrc Prime Celestial S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-prime-celestial-s1-30000034-icon.webp",
+            "slug": "mrc-prime-celestial-s1-30000034",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000035",
+            "name": "Mrc Transcendent Will S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-transcendent-will-s1-30000035-icon.webp",
+            "slug": "mrc-transcendent-will-s1-30000035",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000036",
+            "name": "Mrc Tribunal Luminary S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-tribunal-luminary-s1-30000036-icon.webp",
+            "slug": "mrc-tribunal-luminary-s1-30000036",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000037",
+            "name": "Mrc Galaxy Incarnation S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-galaxy-incarnation-s1-30000037-icon.webp",
+            "slug": "mrc-galaxy-incarnation-s1-30000037",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000038",
+            "name": "Mrc Immortal Eternal S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-immortal-eternal-s1-30000038-icon.webp",
+            "slug": "mrc-immortal-eternal-s1-30000038",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000039",
+            "name": "Mrc Living Messenger S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-living-messenger-s1-30000039-icon.webp",
+            "slug": "mrc-living-messenger-s1-30000039",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000040",
+            "name": "Mrc Nexus Defender S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-nexus-defender-s1-30000040-icon.webp",
+            "slug": "mrc-nexus-defender-s1-30000040",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000041",
+            "name": "Mrc Doomed Descent S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-doomed-descent-s1-30000041-icon.webp",
+            "slug": "mrc-doomed-descent-s1-30000041",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000042",
+            "name": "Mrc Chronoverse Challenger S1",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mrc-chronoverse-challenger-s1-30000042-icon.webp",
+            "slug": "mrc-chronoverse-challenger-s1-30000042",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "30000901",
+            "name": "Golden Abyss",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/golden-abyss-30000901-icon.webp",
+            "slug": "golden-abyss-30000901",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31011001",
+            "name": "Hulk",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/hulk-31011001-icon.webp",
+            "slug": "hulk-31011001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31011201",
+            "name": "Green Scar",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/green-scar-31011201-icon.webp",
+            "slug": "green-scar-31011201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31014001",
+            "name": "The Punisher",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/the-punisher-31014001-icon.webp",
+            "slug": "the-punisher-31014001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31014201",
+            "name": "Punisher 2099",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/punisher-2099-31014201-icon.webp",
+            "slug": "punisher-2099-31014201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31015001",
+            "name": "Storm",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/storm-31015001-icon.webp",
+            "slug": "storm-31015001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31015201",
+            "name": "Mohawk Rock",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mohawk-rock-31015201-icon.webp",
+            "slug": "mohawk-rock-31015201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31016001",
+            "name": "Loki",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/loki-31016001-icon.webp",
+            "slug": "loki-31016001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31016202",
+            "name": "Loki Season 2",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/loki-season-2-31016202-icon.webp",
+            "slug": "loki-season-2-31016202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31016203",
+            "name": "All Butcher",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/all-butcher-31016203-icon.webp",
+            "slug": "all-butcher-31016203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31017001",
+            "name": "Human Torch",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/human-torch-31017001-icon.webp",
+            "slug": "human-torch-31017001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31018001",
+            "name": "Doctor Strange",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/doctor-strange-31018001-icon.webp",
+            "slug": "doctor-strange-31018001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31018101",
+            "name": "Bright Gaze",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/bright-gaze-31018101-icon.webp",
+            "slug": "bright-gaze-31018101",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31018201",
+            "name": "God Of Magic",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/god-of-magic-31018201-icon.webp",
+            "slug": "god-of-magic-31018201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31018202",
+            "name": "Galactic Overlord",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galactic-overlord-31018202-icon.webp",
+            "slug": "galactic-overlord-31018202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31018204",
+            "name": "Sorcerer Immortal",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/sorcerer-immortal-31018204-icon.webp",
+            "slug": "sorcerer-immortal-31018204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31020001",
+            "name": "Mantis",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mantis-31020001-icon.webp",
+            "slug": "mantis-31020001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31020201",
+            "name": "Galactic Wings",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galactic-wings-31020201-icon.webp",
+            "slug": "galactic-wings-31020201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31020202",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardians-of-the-galaxy-vol-3-31020202-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-31020202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31020203",
+            "name": "Jade Maiden",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/jade-maiden-31020203-icon.webp",
+            "slug": "jade-maiden-31020203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31021001",
+            "name": "Hawkeye",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/hawkeye-31021001-icon.webp",
+            "slug": "hawkeye-31021001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31021201",
+            "name": "Galactic Fangs",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galactic-fangs-31021201-icon.webp",
+            "slug": "galactic-fangs-31021201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31021202",
+            "name": "Freefall",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/freefall-31021202-icon.webp",
+            "slug": "freefall-31021202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31022001",
+            "name": "Captain America",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/captain-america-31022001-icon.webp",
+            "slug": "captain-america-31022001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31022201",
+            "name": "Captain Gladiator",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/captain-gladiator-31022201-icon.webp",
+            "slug": "captain-gladiator-31022201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31022202",
+            "name": "Galactic Talon",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galactic-talon-31022202-icon.webp",
+            "slug": "galactic-talon-31022202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31023001",
+            "name": "Rocket Raccoon",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/rocket-raccoon-31023001-icon.webp",
+            "slug": "rocket-raccoon-31023001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31023201",
+            "name": "Bounty Hunter",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/bounty-hunter-31023201-icon.webp",
+            "slug": "bounty-hunter-31023201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31023202",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardians-of-the-galaxy-vol-3-31023202-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-31023202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31023203",
+            "name": "Wild Winter",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/wild-winter-31023203-icon.webp",
+            "slug": "wild-winter-31023203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31024001",
+            "name": "Hela",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/hela-31024001-icon.webp",
+            "slug": "hela-31024001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31024201",
+            "name": "Goddess Of Death",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/goddess-of-death-31024201-icon.webp",
+            "slug": "goddess-of-death-31024201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31024202",
+            "name": "Empress Of The Cosmos",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/empress-of-the-cosmos-31024202-icon.webp",
+            "slug": "empress-of-the-cosmos-31024202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31024203",
+            "name": "Will Of Galacta",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/will-of-galacta-31024203-icon.webp",
+            "slug": "will-of-galacta-31024203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31025001",
+            "name": "Cloak Dagger",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/cloak-dagger-31025001-icon.webp",
+            "slug": "cloak-dagger-31025001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31025201",
+            "name": "Growth Decay",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/growth-decay-31025201-icon.webp",
+            "slug": "growth-decay-31025201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31026001",
+            "name": "Black Panther",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/black-panther-31026001-icon.webp",
+            "slug": "black-panther-31026001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31026201",
+            "name": "Galactic Claw",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/galactic-claw-31026201-icon.webp",
+            "slug": "galactic-claw-31026201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31026202",
+            "name": "Bast S Chosen",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/bast-s-chosen-31026202-icon.webp",
+            "slug": "bast-s-chosen-31026202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31027001",
+            "name": "Groot",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/groot-31027001-icon.webp",
+            "slug": "groot-31027001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31027201",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardians-of-the-galaxy-vol-3-31027201-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-31027201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31027202",
+            "name": "Holiday Happiness",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/holiday-happiness-31027202-icon.webp",
+            "slug": "holiday-happiness-31027202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31029001",
+            "name": "Magik",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/magik-31029001-icon.webp",
+            "slug": "magik-31029001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31029201",
+            "name": "Eldritch Armor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/eldritch-armor-31029201-icon.webp",
+            "slug": "eldritch-armor-31029201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31029202",
+            "name": "Frozen Demon",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/frozen-demon-31029202-icon.webp",
+            "slug": "frozen-demon-31029202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31030001",
+            "name": "Moon Knight",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/moon-knight-31030001-icon.webp",
+            "slug": "moon-knight-31030001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31030201",
+            "name": "Mr Knight",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mr-knight-31030201-icon.webp",
+            "slug": "mr-knight-31030201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31030203",
+            "name": "Lunar General",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/lunar-general-31030203-icon.webp",
+            "slug": "lunar-general-31030203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31031001",
+            "name": "Luna Snow",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/luna-snow-31031001-icon.webp",
+            "slug": "luna-snow-31031001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31031201",
+            "name": "Shining Star",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/shining-star-31031201-icon.webp",
+            "slug": "shining-star-31031201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31032001",
+            "name": "Squirrel Girl",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/squirrel-girl-31032001-icon.webp",
+            "slug": "squirrel-girl-31032001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31032201",
+            "name": "Urban Hunter",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/urban-hunter-31032201-icon.webp",
+            "slug": "urban-hunter-31032201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31032203",
+            "name": "Cheerful Dragoness",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/cheerful-dragoness-31032203-icon.webp",
+            "slug": "cheerful-dragoness-31032203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31033001",
+            "name": "Black Widow",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/black-widow-31033001-icon.webp",
+            "slug": "black-widow-31033001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31033201",
+            "name": "Arctic Agent",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/arctic-agent-31033201-icon.webp",
+            "slug": "arctic-agent-31033201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31033204",
+            "name": "Lion S Heartbeat",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/lion-s-heartbeat-31033204-icon.webp",
+            "slug": "lion-s-heartbeat-31033204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31033901",
+            "name": "Drum And Roar",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/drum-and-roar-31033901-icon.webp",
+            "slug": "drum-and-roar-31033901",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31034001",
+            "name": "Iron Man",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/iron-man-31034001-icon.webp",
+            "slug": "iron-man-31034001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31034202",
+            "name": "Superior Iron Man",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/superior-iron-man-31034202-icon.webp",
+            "slug": "superior-iron-man-31034202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31034203",
+            "name": "Avengers Endgame",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/avengers-endgame-31034203-icon.webp",
+            "slug": "avengers-endgame-31034203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31034204",
+            "name": "Blood Edge Armor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blood-edge-armor-31034204-icon.webp",
+            "slug": "blood-edge-armor-31034204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31035001",
+            "name": "Venom",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/venom-31035001-icon.webp",
+            "slug": "venom-31035001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31035201",
+            "name": "Space Knight",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/space-knight-31035201-icon.webp",
+            "slug": "space-knight-31035201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31035203",
+            "name": "Snow Symbiote",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/snow-symbiote-31035203-icon.webp",
+            "slug": "snow-symbiote-31035203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31036001",
+            "name": "Spider Man",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/spider-man-31036001-icon.webp",
+            "slug": "spider-man-31036001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31036202",
+            "name": "Spider Man No Way Home",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/spider-man-no-way-home-31036202-icon.webp",
+            "slug": "spider-man-no-way-home-31036202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31036203",
+            "name": "Ultimate Bag Man",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/ultimate-bag-man-31036203-icon.webp",
+            "slug": "ultimate-bag-man-31036203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31036204",
+            "name": "Marvel S Spider Man 2",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/marvel-s-spider-man-2-31036204-icon.webp",
+            "slug": "marvel-s-spider-man-2-31036204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31037001",
+            "name": "Magneto",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/magneto-31037001-icon.webp",
+            "slug": "magneto-31037001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31037201",
+            "name": "Master Of Magnetism",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/master-of-magnetism-31037201-icon.webp",
+            "slug": "master-of-magnetism-31037201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31037202",
+            "name": "King Magnus",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/king-magnus-31037202-icon.webp",
+            "slug": "king-magnus-31037202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31037203",
+            "name": "Will Of Galacta",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/will-of-galacta-31037203-icon.webp",
+            "slug": "will-of-galacta-31037203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31038001",
+            "name": "Scarlet Witch",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/scarlet-witch-31038001-icon.webp",
+            "slug": "scarlet-witch-31038001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31038201",
+            "name": "Doctor Strange In The Multiverse Of Madness",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/doctor-strange-in-the-multiverse-of-madness-31038201-icon.webp",
+            "slug": "doctor-strange-in-the-multiverse-of-madness-31038201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31038203",
+            "name": "Emporium Matron",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/emporium-matron-31038203-icon.webp",
+            "slug": "emporium-matron-31038203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31039001",
+            "name": "Thor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/thor-31039001-icon.webp",
+            "slug": "thor-31039001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31039201",
+            "name": "Herald Of Thunder",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/herald-of-thunder-31039201-icon.webp",
+            "slug": "herald-of-thunder-31039201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31039202",
+            "name": "Thor Love And Thunder",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/thor-love-and-thunder-31039202-icon.webp",
+            "slug": "thor-love-and-thunder-31039202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31040001",
+            "name": "Mister Fantastic",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/mister-fantastic-31040001-icon.webp",
+            "slug": "mister-fantastic-31040001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31040201",
+            "name": "The Maker",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/the-maker-31040201-icon.webp",
+            "slug": "the-maker-31040201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31041001",
+            "name": "Winter Soldier",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/winter-soldier-31041001-icon.webp",
+            "slug": "winter-soldier-31041001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31041201",
+            "name": "Revolution",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/revolution-31041201-icon.webp",
+            "slug": "revolution-31041201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31041202",
+            "name": "Blood Soldier",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blood-soldier-31041202-icon.webp",
+            "slug": "blood-soldier-31041202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31042001",
+            "name": "Peni Parker",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/peni-parker-31042001-icon.webp",
+            "slug": "peni-parker-31042001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31042201",
+            "name": "Ven M",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/ven-m-31042201-icon.webp",
+            "slug": "ven-m-31042201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31043001",
+            "name": "Star Lord",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/star-lord-31043001-icon.webp",
+            "slug": "star-lord-31043001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31043201",
+            "name": "Master Of The Sun",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/master-of-the-sun-31043201-icon.webp",
+            "slug": "master-of-the-sun-31043201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31043202",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardians-of-the-galaxy-vol-3-31043202-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-31043202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31043203",
+            "name": "Lion S Mane",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/lion-s-mane-31043203-icon.webp",
+            "slug": "lion-s-mane-31043203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31043901",
+            "name": "Dancing Fortune",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/dancing-fortune-31043901-icon.webp",
+            "slug": "dancing-fortune-31043901",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31045001",
+            "name": "Namor",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/namor-31045001-icon.webp",
+            "slug": "namor-31045001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31045201",
+            "name": "Black Panther Wakanda Forever",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/black-panther-wakanda-forever-31045201-icon.webp",
+            "slug": "black-panther-wakanda-forever-31045201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31046001",
+            "name": "Adam Warlock",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/adam-warlock-31046001-icon.webp",
+            "slug": "adam-warlock-31046001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31046201",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/guardians-of-the-galaxy-vol-3-31046201-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-31046201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31046202",
+            "name": "Blood Soul",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blood-soul-31046202-icon.webp",
+            "slug": "blood-soul-31046202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31047001",
+            "name": "Jeff The Land Shark",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/jeff-the-land-shark-31047001-icon.webp",
+            "slug": "jeff-the-land-shark-31047001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31047201",
+            "name": "Incognito Dolphin",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/incognito-dolphin-31047201-icon.webp",
+            "slug": "incognito-dolphin-31047201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31047202",
+            "name": "Cuddly Fuzzlefin",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/cuddly-fuzzlefin-31047202-icon.webp",
+            "slug": "cuddly-fuzzlefin-31047202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31048001",
+            "name": "Psylocke",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/psylocke-31048001-icon.webp",
+            "slug": "psylocke-31048001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31048201",
+            "name": "Vengeance",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/vengeance-31048201-icon.webp",
+            "slug": "vengeance-31048201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31048202",
+            "name": "Blood Kariudo",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blood-kariudo-31048202-icon.webp",
+            "slug": "blood-kariudo-31048202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31049001",
+            "name": "Wolverine",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/wolverine-31049001-icon.webp",
+            "slug": "wolverine-31049001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31049201",
+            "name": "Deadpool Wolverine",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/deadpool-wolverine-31049201-icon.webp",
+            "slug": "deadpool-wolverine-31049201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31049203",
+            "name": "Blood Berserker",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blood-berserker-31049203-icon.webp",
+            "slug": "blood-berserker-31049203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31050001",
+            "name": "Invisible Woman",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/invisible-woman-31050001-icon.webp",
+            "slug": "invisible-woman-31050001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31050201",
+            "name": "Malice",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/malice-31050201-icon.webp",
+            "slug": "malice-31050201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31051001",
+            "name": "The Thing",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/the-thing-31051001-icon.webp",
+            "slug": "the-thing-31051001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31052001",
+            "name": "Iron Fist",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/iron-fist-31052001-icon.webp",
+            "slug": "iron-fist-31052001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31052201",
+            "name": "Sword Master",
+            "quality": "Rare",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/sword-master-31052201-icon.webp",
+            "slug": "sword-master-31052201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31052203",
+            "name": "Lion S Gaze",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/lion-s-gaze-31052203-icon.webp",
+            "slug": "lion-s-gaze-31052203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "31052901",
+            "name": "Blessing Lion",
+            "quality": "Epic",
+            "type": "Nameplate",
+            "icon": "/items/Nameplate/blessing-lion-31052901-icon.webp",
+            "slug": "blessing-lion-31052901",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000001",
+            "name": "Rivals",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/rivals-40000001-icon.webp",
+            "slug": "rivals-40000001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000002",
+            "name": "Galactic Glories",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/galactic-glories-40000002-icon.webp",
+            "slug": "galactic-glories-40000002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000003",
+            "name": "Mrc Champion S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-champion-s0-40000003-icon.webp",
+            "slug": "mrc-champion-s0-40000003",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000004",
+            "name": "Mrc Prime Celestial S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-prime-celestial-s0-40000004-icon.webp",
+            "slug": "mrc-prime-celestial-s0-40000004",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000005",
+            "name": "Mrc Transcendent Will S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-transcendent-will-s0-40000005-icon.webp",
+            "slug": "mrc-transcendent-will-s0-40000005",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000006",
+            "name": "Mrc Immortal Eternal S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-immortal-eternal-s0-40000006-icon.webp",
+            "slug": "mrc-immortal-eternal-s0-40000006",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000007",
+            "name": "Mrc Doomed Descent S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-doomed-descent-s0-40000007-icon.webp",
+            "slug": "mrc-doomed-descent-s0-40000007",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000008",
+            "name": "Mrc Chronoverse Challenger S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-chronoverse-challenger-s0-40000008-icon.webp",
+            "slug": "mrc-chronoverse-challenger-s0-40000008",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000009",
+            "name": "Marvel Future Fight Spray",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/marvel-future-fight-spray-40000009-icon.webp",
+            "slug": "marvel-future-fight-spray-40000009",
+            "description": "Use this spray to represent MARVEL Future Fight within the game",
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000010",
+            "name": "Marvel Puzzle Quest Spray",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/marvel-puzzle-quest-spray-40000010-icon.webp",
+            "slug": "marvel-puzzle-quest-spray-40000010",
+            "description": "Use this spray to represent MARVEL Puzzle Quest within the game",
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000011",
+            "name": "Marvel Snap Spray",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/marvel-snap-spray-40000011-icon.webp",
+            "slug": "marvel-snap-spray-40000011",
+            "description": "Use this spray to represent MARVEL SNAP within the game",
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000013",
+            "name": "God Of Mischief",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/god-of-mischief-40000013-icon.webp",
+            "slug": "god-of-mischief-40000013",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000014",
+            "name": "Little Ben",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/little-ben-40000014-icon.webp",
+            "slug": "little-ben-40000014",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000015",
+            "name": "Wakanda S Heart",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/wakanda-s-heart-40000015-icon.webp",
+            "slug": "wakanda-s-heart-40000015",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000016",
+            "name": "The Rise Of Hydra",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/the-rise-of-hydra-40000016-icon.webp",
+            "slug": "the-rise-of-hydra-40000016",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000017",
+            "name": "Symbiotic Sibling",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/symbiotic-sibling-40000017-icon.webp",
+            "slug": "symbiotic-sibling-40000017",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000018",
+            "name": "Winter Stockings",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/winter-stockings-40000018-icon.webp",
+            "slug": "winter-stockings-40000018",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000019",
+            "name": "Plushies Of The Galaxy",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/plushies-of-the-galaxy-40000019-icon.webp",
+            "slug": "plushies-of-the-galaxy-40000019",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000020",
+            "name": "Ngp Member",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/ngp-member-40000020-icon.webp",
+            "slug": "ngp-member-40000020",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000021",
+            "name": "Mrc Tribunal Luminary S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-tribunal-luminary-s0-40000021-icon.webp",
+            "slug": "mrc-tribunal-luminary-s0-40000021",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000022",
+            "name": "Mrc Galaxy Incarnation S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-galaxy-incarnation-s0-40000022-icon.webp",
+            "slug": "mrc-galaxy-incarnation-s0-40000022",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000023",
+            "name": "Mrc Living Messenger S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-living-messenger-s0-40000023-icon.webp",
+            "slug": "mrc-living-messenger-s0-40000023",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000024",
+            "name": "Mrc Nexus Defender S0",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-nexus-defender-s0-40000024-icon.webp",
+            "slug": "mrc-nexus-defender-s0-40000024",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000025",
+            "name": "Snake S Luck",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/snake-s-luck-40000025-icon.webp",
+            "slug": "snake-s-luck-40000025",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000026",
+            "name": "Scientific Stretch",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/scientific-stretch-40000026-icon.webp",
+            "slug": "scientific-stretch-40000026",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000027",
+            "name": "H E R B I E Nation",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/h-e-r-b-i-e-nation-40000027-icon.webp",
+            "slug": "h-e-r-b-i-e-nation-40000027",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000028",
+            "name": "Bats Or Bust",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/bats-or-bust-40000028-icon.webp",
+            "slug": "bats-or-bust-40000028",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000029",
+            "name": "20 000 000 Rivals",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/20-000-000-rivals-40000029-icon.webp",
+            "slug": "20-000-000-rivals-40000029",
+            "description": "20 Million Rivals Assembled Keepsake",
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000032",
+            "name": "Fearful Fangs",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/fearful-fangs-40000032-icon.webp",
+            "slug": "fearful-fangs-40000032",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000033",
+            "name": "Mellowing Moon",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mellowing-moon-40000033-icon.webp",
+            "slug": "mellowing-moon-40000033",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000034",
+            "name": "Mrc Champion S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-champion-s1-40000034-icon.webp",
+            "slug": "mrc-champion-s1-40000034",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000035",
+            "name": "Mrc Prime Celestial S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-prime-celestial-s1-40000035-icon.webp",
+            "slug": "mrc-prime-celestial-s1-40000035",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000036",
+            "name": "Mrc Transcendent Will S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-transcendent-will-s1-40000036-icon.webp",
+            "slug": "mrc-transcendent-will-s1-40000036",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000037",
+            "name": "Mrc Tribunal Luminary S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-tribunal-luminary-s1-40000037-icon.webp",
+            "slug": "mrc-tribunal-luminary-s1-40000037",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000038",
+            "name": "Mrc Galaxy Incarnation S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-galaxy-incarnation-s1-40000038-icon.webp",
+            "slug": "mrc-galaxy-incarnation-s1-40000038",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000039",
+            "name": "Mrc Immortal Eternal S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-immortal-eternal-s1-40000039-icon.webp",
+            "slug": "mrc-immortal-eternal-s1-40000039",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000040",
+            "name": "Mrc Living Messenger S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-living-messenger-s1-40000040-icon.webp",
+            "slug": "mrc-living-messenger-s1-40000040",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000041",
+            "name": "Mrc Nexus Defender S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-nexus-defender-s1-40000041-icon.webp",
+            "slug": "mrc-nexus-defender-s1-40000041",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000042",
+            "name": "Mrc Doomed Descent S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-doomed-descent-s1-40000042-icon.webp",
+            "slug": "mrc-doomed-descent-s1-40000042",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000043",
+            "name": "Mrc Chronoverse Challenger S1",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mrc-chronoverse-challenger-s1-40000043-icon.webp",
+            "slug": "mrc-chronoverse-challenger-s1-40000043",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "40000901",
+            "name": "Tooth And Hammer",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/tooth-and-hammer-40000901-icon.webp",
+            "slug": "tooth-and-hammer-40000901",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41011002",
+            "name": "Hulk",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/hulk-41011002-icon.webp",
+            "slug": "hulk-41011002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41011201",
+            "name": "Green Scar",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/green-scar-41011201-icon.webp",
+            "slug": "green-scar-41011201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41014002",
+            "name": "The Punisher",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/the-punisher-41014002-icon.webp",
+            "slug": "the-punisher-41014002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41014201",
+            "name": "Punisher 2099",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/punisher-2099-41014201-icon.webp",
+            "slug": "punisher-2099-41014201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41015002",
+            "name": "Storm",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/storm-41015002-icon.webp",
+            "slug": "storm-41015002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41015201",
+            "name": "Mohawk Rock",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mohawk-rock-41015201-icon.webp",
+            "slug": "mohawk-rock-41015201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41016001",
+            "name": "Loki Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/loki-emblem-41016001-icon.webp",
+            "slug": "loki-emblem-41016001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41016002",
+            "name": "Loki",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/loki-41016002-icon.webp",
+            "slug": "loki-41016002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41016202",
+            "name": "Loki Season 2",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/loki-season-2-41016202-icon.webp",
+            "slug": "loki-season-2-41016202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41016203",
+            "name": "All Butcher",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/all-butcher-41016203-icon.webp",
+            "slug": "all-butcher-41016203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41018002",
+            "name": "Doctor Strange",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/doctor-strange-41018002-icon.webp",
+            "slug": "doctor-strange-41018002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41018201",
+            "name": "God Of Magic",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/god-of-magic-41018201-icon.webp",
+            "slug": "god-of-magic-41018201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41018202",
+            "name": "Sorcerer Supreme Of The Galaxy",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/sorcerer-supreme-of-the-galaxy-41018202-icon.webp",
+            "slug": "sorcerer-supreme-of-the-galaxy-41018202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41018203",
+            "name": "Sorcerer Immortal",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/sorcerer-immortal-41018203-icon.webp",
+            "slug": "sorcerer-immortal-41018203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41020002",
+            "name": "Mantis",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mantis-41020002-icon.webp",
+            "slug": "mantis-41020002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41020201",
+            "name": "Galactic Wings",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/galactic-wings-41020201-icon.webp",
+            "slug": "galactic-wings-41020201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41020202",
+            "name": "Jade Maiden",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/jade-maiden-41020202-icon.webp",
+            "slug": "jade-maiden-41020202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41020203",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/guardians-of-the-galaxy-vol-3-41020203-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-41020203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41021002",
+            "name": "Hawkeye",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/hawkeye-41021002-icon.webp",
+            "slug": "hawkeye-41021002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41021201",
+            "name": "Galactic Fangs",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/galactic-fangs-41021201-icon.webp",
+            "slug": "galactic-fangs-41021201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41021202",
+            "name": "Freefall",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/freefall-41021202-icon.webp",
+            "slug": "freefall-41021202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41022002",
+            "name": "Captain America",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/captain-america-41022002-icon.webp",
+            "slug": "captain-america-41022002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41022201",
+            "name": "Captain Gladiator",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/captain-gladiator-41022201-icon.webp",
+            "slug": "captain-gladiator-41022201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41022202",
+            "name": "Galactic Talon",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/galactic-talon-41022202-icon.webp",
+            "slug": "galactic-talon-41022202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41023001",
+            "name": "Rocket Raccoon Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/rocket-raccoon-emblem-41023001-icon.webp",
+            "slug": "rocket-raccoon-emblem-41023001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41023002",
+            "name": "Rocket Raccoon",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/rocket-raccoon-41023002-icon.webp",
+            "slug": "rocket-raccoon-41023002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41023201",
+            "name": "Bounty Hunter",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/bounty-hunter-41023201-icon.webp",
+            "slug": "bounty-hunter-41023201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41023202",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/guardians-of-the-galaxy-vol-3-41023202-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-41023202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41023203",
+            "name": "Wild Winter",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/wild-winter-41023203-icon.webp",
+            "slug": "wild-winter-41023203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41024002",
+            "name": "Hela",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/hela-41024002-icon.webp",
+            "slug": "hela-41024002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41024201",
+            "name": "Empress Of The Cosmos",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/empress-of-the-cosmos-41024201-icon.webp",
+            "slug": "empress-of-the-cosmos-41024201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41024202",
+            "name": "Goddess Of Death",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/goddess-of-death-41024202-icon.webp",
+            "slug": "goddess-of-death-41024202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41024204",
+            "name": "Will Of Galacta",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/will-of-galacta-41024204-icon.webp",
+            "slug": "will-of-galacta-41024204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41025002",
+            "name": "Cloak Dagger",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/cloak-dagger-41025002-icon.webp",
+            "slug": "cloak-dagger-41025002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41025201",
+            "name": "Growth Decay",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/growth-decay-41025201-icon.webp",
+            "slug": "growth-decay-41025201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41026002",
+            "name": "Black Panther",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/black-panther-41026002-icon.webp",
+            "slug": "black-panther-41026002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41026201",
+            "name": "Bast S Chosen",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/bast-s-chosen-41026201-icon.webp",
+            "slug": "bast-s-chosen-41026201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41026202",
+            "name": "Galactic Claw",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/galactic-claw-41026202-icon.webp",
+            "slug": "galactic-claw-41026202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41027002",
+            "name": "Groot",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/groot-41027002-icon.webp",
+            "slug": "groot-41027002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41027201",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/guardians-of-the-galaxy-vol-3-41027201-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-41027201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41027202",
+            "name": "Holiday Happiness",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/holiday-happiness-41027202-icon.webp",
+            "slug": "holiday-happiness-41027202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41029002",
+            "name": "Magik",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/magik-41029002-icon.webp",
+            "slug": "magik-41029002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41029201",
+            "name": "Eldritch Armor",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/eldritch-armor-41029201-icon.webp",
+            "slug": "eldritch-armor-41029201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41029202",
+            "name": "Frozen Demon",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/frozen-demon-41029202-icon.webp",
+            "slug": "frozen-demon-41029202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41030001",
+            "name": "Moon Knight Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/moon-knight-emblem-41030001-icon.webp",
+            "slug": "moon-knight-emblem-41030001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41030002",
+            "name": "Moon Knight",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/moon-knight-41030002-icon.webp",
+            "slug": "moon-knight-41030002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41030201",
+            "name": "Mr Knight",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mr-knight-41030201-icon.webp",
+            "slug": "mr-knight-41030201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41030203",
+            "name": "Lunar General",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/lunar-general-41030203-icon.webp",
+            "slug": "lunar-general-41030203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41031002",
+            "name": "Luna Snow",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/luna-snow-41031002-icon.webp",
+            "slug": "luna-snow-41031002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41031201",
+            "name": "Shining Star",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/shining-star-41031201-icon.webp",
+            "slug": "shining-star-41031201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41032002",
+            "name": "Squirrel Girl",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/squirrel-girl-41032002-icon.webp",
+            "slug": "squirrel-girl-41032002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41032202",
+            "name": "Cheerful Dragoness",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/cheerful-dragoness-41032202-icon.webp",
+            "slug": "cheerful-dragoness-41032202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41032203",
+            "name": "Urban Hunter",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/urban-hunter-41032203-icon.webp",
+            "slug": "urban-hunter-41032203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41033002",
+            "name": "Black Widow",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/black-widow-41033002-icon.webp",
+            "slug": "black-widow-41033002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41033203",
+            "name": "Arctic Agent",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/arctic-agent-41033203-icon.webp",
+            "slug": "arctic-agent-41033203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41033204",
+            "name": "Lion S Heartbeat",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/lion-s-heartbeat-41033204-icon.webp",
+            "slug": "lion-s-heartbeat-41033204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41034001",
+            "name": "Iron Man Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/iron-man-emblem-41034001-icon.webp",
+            "slug": "iron-man-emblem-41034001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41034002",
+            "name": "Iron Man",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/iron-man-41034002-icon.webp",
+            "slug": "iron-man-41034002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41034202",
+            "name": "Superior Iron Man",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/superior-iron-man-41034202-icon.webp",
+            "slug": "superior-iron-man-41034202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41034203",
+            "name": "Avengers Endgame",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/avengers-endgame-41034203-icon.webp",
+            "slug": "avengers-endgame-41034203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41034204",
+            "name": "Blood Edge Armor",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/blood-edge-armor-41034204-icon.webp",
+            "slug": "blood-edge-armor-41034204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41035002",
+            "name": "Venom",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/venom-41035002-icon.webp",
+            "slug": "venom-41035002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41035202",
+            "name": "Snow Symbiote",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/snow-symbiote-41035202-icon.webp",
+            "slug": "snow-symbiote-41035202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41035203",
+            "name": "Space Knight",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/space-knight-41035203-icon.webp",
+            "slug": "space-knight-41035203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41036002",
+            "name": "Spider Man",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/spider-man-41036002-icon.webp",
+            "slug": "spider-man-41036002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41036202",
+            "name": "Ultimate Bag Man",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/ultimate-bag-man-41036202-icon.webp",
+            "slug": "ultimate-bag-man-41036202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41036203",
+            "name": "Spider Man No Way Home",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/spider-man-no-way-home-41036203-icon.webp",
+            "slug": "spider-man-no-way-home-41036203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41036204",
+            "name": "Marvel S Spider Man 2",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/marvel-s-spider-man-2-41036204-icon.webp",
+            "slug": "marvel-s-spider-man-2-41036204",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41037001",
+            "name": "Magneto Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/magneto-emblem-41037001-icon.webp",
+            "slug": "magneto-emblem-41037001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41037002",
+            "name": "Magneto",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/magneto-41037002-icon.webp",
+            "slug": "magneto-41037002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41037201",
+            "name": "Master Of Magnetism",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/master-of-magnetism-41037201-icon.webp",
+            "slug": "master-of-magnetism-41037201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41037202",
+            "name": "Will Of Galacta",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/will-of-galacta-41037202-icon.webp",
+            "slug": "will-of-galacta-41037202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41037203",
+            "name": "King Magnus",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/king-magnus-41037203-icon.webp",
+            "slug": "king-magnus-41037203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41038001",
+            "name": "Scarlet Witch Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/scarlet-witch-emblem-41038001-icon.webp",
+            "slug": "scarlet-witch-emblem-41038001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41038002",
+            "name": "Scarlet Witch",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/scarlet-witch-41038002-icon.webp",
+            "slug": "scarlet-witch-41038002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41038201",
+            "name": "Emporium Matron",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/emporium-matron-41038201-icon.webp",
+            "slug": "emporium-matron-41038201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41038203",
+            "name": "Doctor Strange In The Multiverse Of Madness",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/doctor-strange-in-the-multiverse-of-madness-41038203-icon.webp",
+            "slug": "doctor-strange-in-the-multiverse-of-madness-41038203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41039002",
+            "name": "Thor",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/thor-41039002-icon.webp",
+            "slug": "thor-41039002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41039201",
+            "name": "Herald Of Thunder",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/herald-of-thunder-41039201-icon.webp",
+            "slug": "herald-of-thunder-41039201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41039202",
+            "name": "Thor Love And Thunder",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/thor-love-and-thunder-41039202-icon.webp",
+            "slug": "thor-love-and-thunder-41039202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41040002",
+            "name": "Mister Fantastic",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/mister-fantastic-41040002-icon.webp",
+            "slug": "mister-fantastic-41040002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41040202",
+            "name": "The Maker",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/the-maker-41040202-icon.webp",
+            "slug": "the-maker-41040202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41041002",
+            "name": "Winter Soldier",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/winter-soldier-41041002-icon.webp",
+            "slug": "winter-soldier-41041002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41041201",
+            "name": "Revolution",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/revolution-41041201-icon.webp",
+            "slug": "revolution-41041201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41041202",
+            "name": "Blood Soldier",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/blood-soldier-41041202-icon.webp",
+            "slug": "blood-soldier-41041202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41042001",
+            "name": "Peni Parker Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/peni-parker-emblem-41042001-icon.webp",
+            "slug": "peni-parker-emblem-41042001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41042002",
+            "name": "Peni Parker",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/peni-parker-41042002-icon.webp",
+            "slug": "peni-parker-41042002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41042201",
+            "name": "Ven M",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/ven-m-41042201-icon.webp",
+            "slug": "ven-m-41042201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41043002",
+            "name": "Star Lord",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/star-lord-41043002-icon.webp",
+            "slug": "star-lord-41043002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41043201",
+            "name": "Master Of The Sun",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/master-of-the-sun-41043201-icon.webp",
+            "slug": "master-of-the-sun-41043201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41043202",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/guardians-of-the-galaxy-vol-3-41043202-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-41043202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41043203",
+            "name": "Lion S Mane",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/lion-s-mane-41043203-icon.webp",
+            "slug": "lion-s-mane-41043203",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41045001",
+            "name": "Namor Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/namor-emblem-41045001-icon.webp",
+            "slug": "namor-emblem-41045001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41045002",
+            "name": "Namor",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/namor-41045002-icon.webp",
+            "slug": "namor-41045002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41045201",
+            "name": "Black Panther Wakanda Forever",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/black-panther-wakanda-forever-41045201-icon.webp",
+            "slug": "black-panther-wakanda-forever-41045201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41046001",
+            "name": "Adam Warlock Emblem",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/adam-warlock-emblem-41046001-icon.webp",
+            "slug": "adam-warlock-emblem-41046001",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41046002",
+            "name": "Adam Warlock",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/adam-warlock-41046002-icon.webp",
+            "slug": "adam-warlock-41046002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41046201",
+            "name": "Guardians Of The Galaxy Vol 3",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/guardians-of-the-galaxy-vol-3-41046201-icon.webp",
+            "slug": "guardians-of-the-galaxy-vol-3-41046201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41046202",
+            "name": "Blood Soul",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/blood-soul-41046202-icon.webp",
+            "slug": "blood-soul-41046202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41047002",
+            "name": "Jeff The Land Shark",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/jeff-the-land-shark-41047002-icon.webp",
+            "slug": "jeff-the-land-shark-41047002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41047003",
+            "name": "Unlimited Appetite",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/unlimited-appetite-41047003-icon.webp",
+            "slug": "unlimited-appetite-41047003",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41047201",
+            "name": "Incognito Dolphin",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/incognito-dolphin-41047201-icon.webp",
+            "slug": "incognito-dolphin-41047201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41047202",
+            "name": "Cuddly Fuzzlefin",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/cuddly-fuzzlefin-41047202-icon.webp",
+            "slug": "cuddly-fuzzlefin-41047202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41048002",
+            "name": "Psylocke",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/psylocke-41048002-icon.webp",
+            "slug": "psylocke-41048002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41048201",
+            "name": "Vengeance",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/vengeance-41048201-icon.webp",
+            "slug": "vengeance-41048201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41048202",
+            "name": "Blood Kariudo",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/blood-kariudo-41048202-icon.webp",
+            "slug": "blood-kariudo-41048202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41049002",
+            "name": "Wolverine",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/wolverine-41049002-icon.webp",
+            "slug": "wolverine-41049002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41049201",
+            "name": "Deadpool Wolverine",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/deadpool-wolverine-41049201-icon.webp",
+            "slug": "deadpool-wolverine-41049201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41049202",
+            "name": "Blood Berserker",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/blood-berserker-41049202-icon.webp",
+            "slug": "blood-berserker-41049202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41050002",
+            "name": "Invisible Woman",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/invisible-woman-41050002-icon.webp",
+            "slug": "invisible-woman-41050002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41050202",
+            "name": "Malice",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/malice-41050202-icon.webp",
+            "slug": "malice-41050202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41052002",
+            "name": "Iron Fist",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/iron-fist-41052002-icon.webp",
+            "slug": "iron-fist-41052002",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41052201",
+            "name": "Sword Master",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/sword-master-41052201-icon.webp",
+            "slug": "sword-master-41052201",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "41052202",
+            "name": "Lion S Gaze",
+            "quality": "Rare",
+            "type": "Spray",
+            "icon": "/items/Spray/lion-s-gaze-41052202-icon.webp",
+            "slug": "lion-s-gaze-41052202",
+            "description": null,
+            "associated_hero": "0"
+        },
+        {
+            "id": "1011001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1011001201-icon.webp",
+            "slug": "default-1011001201",
+            "description": null,
+            "associated_hero": "1011"
+        },
+        {
+            "id": "1011001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1011001301-icon.webp",
+            "slug": "default-1011001301",
+            "description": null,
+            "associated_hero": "1011"
+        },
+        {
+            "id": "1011501202",
+            "name": "World Breaker",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/world-breaker-1011501202-icon.webp",
+            "slug": "world-breaker-1011501202",
+            "description": null,
+            "associated_hero": "1011"
+        },
+        {
+            "id": "1011501302",
+            "name": "Warbound",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/warbound-1011501302-icon.webp",
+            "slug": "warbound-1011501302",
+            "description": "Hulk is back! As Green Scar, and he will start his revenge against the heroes and the planet that once betrayed him!",
+            "associated_hero": "1011"
+        },
+        {
+            "id": "1014001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1014001201-icon.webp",
+            "slug": "default-1014001201",
+            "description": null,
+            "associated_hero": "1014"
+        },
+        {
+            "id": "1014001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1014001301-icon.webp",
+            "slug": "default-1014001301",
+            "description": null,
+            "associated_hero": "1014"
+        },
+        {
+            "id": "1014501202",
+            "name": "Love War",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/love-war-1014501202-icon.webp",
+            "slug": "love-war-1014501202",
+            "description": null,
+            "associated_hero": "1014"
+        },
+        {
+            "id": "1014501302",
+            "name": "Wall Buster",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/wall-buster-1014501302-icon.webp",
+            "slug": "wall-buster-1014501302",
+            "description": null,
+            "associated_hero": "1014"
+        },
+        {
+            "id": "1015001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1015001201-icon.webp",
+            "slug": "default-1015001201",
+            "description": null,
+            "associated_hero": "1015"
+        },
+        {
+            "id": "1015001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1015001301-icon.webp",
+            "slug": "default-1015001301",
+            "description": null,
+            "associated_hero": "1015"
+        },
+        {
+            "id": "1015500202",
+            "name": "Let S Rock",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/let-s-rock-1015500202-icon.webp",
+            "slug": "let-s-rock-1015500202",
+            "description": null,
+            "associated_hero": "1015"
+        },
+        {
+            "id": "1015500303",
+            "name": "Ride The Lightning",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/ride-the-lightning-1015500303-icon.webp",
+            "slug": "ride-the-lightning-1015500303",
+            "description": null,
+            "associated_hero": "1015"
+        },
+        {
+            "id": "1016001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1016001201-icon.webp",
+            "slug": "default-1016001201",
+            "description": null,
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1016001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1016001301-icon.webp",
+            "slug": "default-1016001301",
+            "description": null,
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1016501202",
+            "name": "Heed My Call",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/heed-my-call-1016501202-icon.webp",
+            "slug": "heed-my-call-1016501202",
+            "description": null,
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1016501305",
+            "name": "End Of Everything",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/end-of-everything-1016501305-icon.webp",
+            "slug": "end-of-everything-1016501305",
+            "description": "He bonded with the primordial symbiote, and even Ego stood no chance against him. He has now become—Loki the All-Butcher, the End of Everything!",
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1016800204",
+            "name": "Constant Gardener",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/constant-gardener-1016800204-icon.webp",
+            "slug": "constant-gardener-1016800204",
+            "description": null,
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1016800303",
+            "name": "Glorious Purpose",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/glorious-purpose-1016800303-icon.webp",
+            "slug": "glorious-purpose-1016800303",
+            "description": null,
+            "associated_hero": "1016"
+        },
+        {
+            "id": "1018001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1018001201-icon.webp",
+            "slug": "default-1018001201",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1018001301-icon.webp",
+            "slug": "default-1018001301",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018300203",
+            "name": "Dragon S Calligraphy",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/dragon-s-calligraphy-1018300203-icon.webp",
+            "slug": "dragon-s-calligraphy-1018300203",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018300304",
+            "name": "Rising Dragon",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/rising-dragon-1018300304-icon.webp",
+            "slug": "rising-dragon-1018300304",
+            "description": "A recluse sits in tranquility, skies so blue,Amidst amethyst mists, dragons ascend anew.",
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018500204",
+            "name": "Power Of Yggdrasill",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/power-of-yggdrasill-1018500204-icon.webp",
+            "slug": "power-of-yggdrasill-1018500204",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018500302",
+            "name": "Asgardian Ascension",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/asgardian-ascension-1018500302-icon.webp",
+            "slug": "asgardian-ascension-1018500302",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018501202",
+            "name": "Singular Wonder",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/singular-wonder-1018501202-icon.webp",
+            "slug": "singular-wonder-1018501202",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1018501305",
+            "name": "Interstellar Mystic",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/interstellar-mystic-1018501305-icon.webp",
+            "slug": "interstellar-mystic-1018501305",
+            "description": null,
+            "associated_hero": "1018"
+        },
+        {
+            "id": "1020001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1020001201-icon.webp",
+            "slug": "default-1020001201",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1020001301-icon.webp",
+            "slug": "default-1020001301",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020300203",
+            "name": "Life Energy",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/life-energy-1020300203-icon.webp",
+            "slug": "life-energy-1020300203",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020300303",
+            "name": "Celestial Harmony",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/celestial-harmony-1020300303-icon.webp",
+            "slug": "celestial-harmony-1020300303",
+            "description": "Wearing Vibranium armor, nimble as a breeze, she faces foes with effortless ease. With martial arts and life energy combined, her strength and grace seamlessly align.",
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020301204",
+            "name": "Jade Melody",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/jade-melody-1020301204-icon.webp",
+            "slug": "jade-melody-1020301204",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020301304",
+            "name": "Immortal Tide",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/immortal-tide-1020301304-icon.webp",
+            "slug": "immortal-tide-1020301304",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020800202",
+            "name": "Feel Like Dancing",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/feel-like-dancing-1020800202-icon.webp",
+            "slug": "feel-like-dancing-1020800202",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1020800302",
+            "name": "Power Of Empathy",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/power-of-empathy-1020800302-icon.webp",
+            "slug": "power-of-empathy-1020800302",
+            "description": null,
+            "associated_hero": "1020"
+        },
+        {
+            "id": "1021001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1021001201-icon.webp",
+            "slug": "default-1021001201",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1021001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1021001301-icon.webp",
+            "slug": "default-1021001301",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1021300202",
+            "name": "Fruit Ronin",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/fruit-ronin-1021300202-icon.webp",
+            "slug": "fruit-ronin-1021300202",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1021300302",
+            "name": "Serpent Slash",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/serpent-slash-1021300302-icon.webp",
+            "slug": "serpent-slash-1021300302",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1021501204",
+            "name": "Trick Spin",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/trick-spin-1021501204-icon.webp",
+            "slug": "trick-spin-1021501204",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1021501304",
+            "name": "Freefall",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/freefall-1021501304-icon.webp",
+            "slug": "freefall-1021501304",
+            "description": null,
+            "associated_hero": "1021"
+        },
+        {
+            "id": "1022001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1022001201-icon.webp",
+            "slug": "default-1022001201",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1022001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1022001301-icon.webp",
+            "slug": "default-1022001301",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1022300204",
+            "name": "Equipped For Battle",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/equipped-for-battle-1022300204-icon.webp",
+            "slug": "equipped-for-battle-1022300204",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1022300303",
+            "name": "Sky Shatter",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/sky-shatter-1022300303-icon.webp",
+            "slug": "sky-shatter-1022300303",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1022500203",
+            "name": "Battered Bounce",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/battered-bounce-1022500203-icon.webp",
+            "slug": "battered-bounce-1022500203",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1022500302",
+            "name": "Killiseum Champion",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/killiseum-champion-1022500302-icon.webp",
+            "slug": "killiseum-champion-1022500302",
+            "description": null,
+            "associated_hero": "1022"
+        },
+        {
+            "id": "1023001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1023001201-icon.webp",
+            "slug": "default-1023001201",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1023001301-icon.webp",
+            "slug": "default-1023001301",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023300302",
+            "name": "Wanted Raccoon",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/wanted-raccoon-1023300302-icon.webp",
+            "slug": "wanted-raccoon-1023300302",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023301204",
+            "name": "Winter Confetti",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/winter-confetti-1023301204-icon.webp",
+            "slug": "winter-confetti-1023301204",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023301304",
+            "name": "Gift Of Surprise",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/gift-of-surprise-1023301304-icon.webp",
+            "slug": "gift-of-surprise-1023301304",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023801202",
+            "name": "Awesome Dance",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/awesome-dance-1023801202-icon.webp",
+            "slug": "awesome-dance-1023801202",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1023801303",
+            "name": "Better With Friends",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/better-with-friends-1023801303-icon.webp",
+            "slug": "better-with-friends-1023801303",
+            "description": null,
+            "associated_hero": "1023"
+        },
+        {
+            "id": "1024001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1024001201-icon.webp",
+            "slug": "default-1024001201",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1024001301-icon.webp",
+            "slug": "default-1024001301",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024101205",
+            "name": "Great Galaxy",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/great-galaxy-1024101205-icon.webp",
+            "slug": "great-galaxy-1024101205",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024301202",
+            "name": "Pocket Galaxies",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/pocket-galaxies-1024301202-icon.webp",
+            "slug": "pocket-galaxies-1024301202",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024301302",
+            "name": "Cosmos Domination",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/cosmos-domination-1024301302-icon.webp",
+            "slug": "cosmos-domination-1024301302",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024500203",
+            "name": "Soul Servants",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/soul-servants-1024500203-icon.webp",
+            "slug": "soul-servants-1024500203",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1024500303",
+            "name": "Army Of Hel",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/army-of-hel-1024500303-icon.webp",
+            "slug": "army-of-hel-1024500303",
+            "description": null,
+            "associated_hero": "1024"
+        },
+        {
+            "id": "1025001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1025001201-icon.webp",
+            "slug": "default-1025001201",
+            "description": null,
+            "associated_hero": "1025"
+        },
+        {
+            "id": "1025001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1025001301-icon.webp",
+            "slug": "default-1025001301",
+            "description": null,
+            "associated_hero": "1025"
+        },
+        {
+            "id": "1025500203",
+            "name": "Growth Or Decay",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/growth-or-decay-1025500203-icon.webp",
+            "slug": "growth-or-decay-1025500203",
+            "description": null,
+            "associated_hero": "1025"
+        },
+        {
+            "id": "1025500303",
+            "name": "Balance Of Nature",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/balance-of-nature-1025500303-icon.webp",
+            "slug": "balance-of-nature-1025500303",
+            "description": null,
+            "associated_hero": "1025"
+        },
+        {
+            "id": "1026001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1026001201-icon.webp",
+            "slug": "default-1026001201",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1026001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1026001301-icon.webp",
+            "slug": "default-1026001301",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1026300203",
+            "name": "Charged For Battle",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/charged-for-battle-1026300203-icon.webp",
+            "slug": "charged-for-battle-1026300203",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1026300302",
+            "name": "Empire Strikes",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/empire-strikes-1026300302-icon.webp",
+            "slug": "empire-strikes-1026300302",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1026500202",
+            "name": "Natural Impulse",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/natural-impulse-1026500202-icon.webp",
+            "slug": "natural-impulse-1026500202",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1026500303",
+            "name": "Mosi S Lineage",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/mosi-s-lineage-1026500303-icon.webp",
+            "slug": "mosi-s-lineage-1026500303",
+            "description": null,
+            "associated_hero": "1026"
+        },
+        {
+            "id": "1027001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1027001201-icon.webp",
+            "slug": "default-1027001201",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1027001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1027001301-icon.webp",
+            "slug": "default-1027001301",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1027302204",
+            "name": "Say Cheese",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/say-cheese-1027302204-icon.webp",
+            "slug": "say-cheese-1027302204",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1027302304",
+            "name": "Unplanned Stumbles",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/unplanned-stumbles-1027302304-icon.webp",
+            "slug": "unplanned-stumbles-1027302304",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1027800202",
+            "name": "Awesome Dance",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/awesome-dance-1027800202-icon.webp",
+            "slug": "awesome-dance-1027800202",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1027800303",
+            "name": "Next Journey",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/next-journey-1027800303-icon.webp",
+            "slug": "next-journey-1027800303",
+            "description": null,
+            "associated_hero": "1027"
+        },
+        {
+            "id": "1029001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1029001201-icon.webp",
+            "slug": "default-1029001201",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1029001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1029001301-icon.webp",
+            "slug": "default-1029001301",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1029301204",
+            "name": "Snowswording",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/snowswording-1029301204-icon.webp",
+            "slug": "snowswording-1029301204",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1029301304",
+            "name": "Slope Master",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/slope-master-1029301304-icon.webp",
+            "slug": "slope-master-1029301304",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1029500203",
+            "name": "Go Home",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/go-home-1029500203-icon.webp",
+            "slug": "go-home-1029500203",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1029500302",
+            "name": "Silver Shimmer",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/silver-shimmer-1029500302-icon.webp",
+            "slug": "silver-shimmer-1029500302",
+            "description": null,
+            "associated_hero": "1029"
+        },
+        {
+            "id": "1030001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1030001201-icon.webp",
+            "slug": "default-1030001201",
+            "description": null,
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1030001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1030001301-icon.webp",
+            "slug": "default-1030001301",
+            "description": null,
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1030300204",
+            "name": "Lunar Blessing",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/lunar-blessing-1030300204-icon.webp",
+            "slug": "lunar-blessing-1030300204",
+            "description": null,
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1030300304",
+            "name": "General From The Heavens",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/general-from-the-heavens-1030300304-icon.webp",
+            "slug": "general-from-the-heavens-1030300304",
+            "description": "Under divine decree, Marc Spector's journey east unites him with an ancient dragon on the quest to kill a dangerous beast. Together they banish spirits and bathe in moonlight, their reign of peace ever-increasing.",
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1030500202",
+            "name": "Dashing Daring And Debonair",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/dashing-daring-and-debonair-1030500202-icon.webp",
+            "slug": "dashing-daring-and-debonair-1030500202",
+            "description": null,
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1030500303",
+            "name": "It S Showtime",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/it-s-showtime-1030500303-icon.webp",
+            "slug": "it-s-showtime-1030500303",
+            "description": null,
+            "associated_hero": "1030"
+        },
+        {
+            "id": "1031001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1031001201-icon.webp",
+            "slug": "default-1031001201",
+            "description": null,
+            "associated_hero": "1031"
+        },
+        {
+            "id": "1031001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1031001301-icon.webp",
+            "slug": "default-1031001301",
+            "description": null,
+            "associated_hero": "1031"
+        },
+        {
+            "id": "1031300202",
+            "name": "Little Oopsie",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/little-oopsie-1031300202-icon.webp",
+            "slug": "little-oopsie-1031300202",
+            "description": null,
+            "associated_hero": "1031"
+        },
+        {
+            "id": "1031300302",
+            "name": "Comeback Time",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/comeback-time-1031300302-icon.webp",
+            "slug": "comeback-time-1031300302",
+            "description": null,
+            "associated_hero": "1031"
+        },
+        {
+            "id": "1032001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1032001201-icon.webp",
+            "slug": "default-1032001201",
+            "description": null,
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1032001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1032001301-icon.webp",
+            "slug": "default-1032001301",
+            "description": null,
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1032301203",
+            "name": "New Player",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/new-player-1032301203-icon.webp",
+            "slug": "new-player-1032301203",
+            "description": null,
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1032301304",
+            "name": "Cuju Tackler",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/cuju-tackler-1032301304-icon.webp",
+            "slug": "cuju-tackler-1032301304",
+            "description": "After months of training, Doreen can now execute a Cuju tackle with finesse. However, she only achieves a perfect 100% success rate when tackling Tippy-Toe.",
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1032500204",
+            "name": "I Can Do It",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/i-can-do-it-1032500204-icon.webp",
+            "slug": "i-can-do-it-1032500204",
+            "description": null,
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1032500303",
+            "name": "Boogie Time",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/boogie-time-1032500303-icon.webp",
+            "slug": "boogie-time-1032500303",
+            "description": null,
+            "associated_hero": "1032"
+        },
+        {
+            "id": "1033001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1033001201-icon.webp",
+            "slug": "default-1033001201",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1033001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1033001301-icon.webp",
+            "slug": "default-1033001301",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1033300205",
+            "name": "Fancy Skipping",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/fancy-skipping-1033300205-icon.webp",
+            "slug": "fancy-skipping-1033300205",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1033300305",
+            "name": "Drum S Fury",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/drum-s-fury-1033300305-icon.webp",
+            "slug": "drum-s-fury-1033300305",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1033800202",
+            "name": "Warm Up",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/warm-up-1033800202-icon.webp",
+            "slug": "warm-up-1033800202",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1033800302",
+            "name": "Winter S Shelter",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/winter-s-shelter-1033800302-icon.webp",
+            "slug": "winter-s-shelter-1033800302",
+            "description": null,
+            "associated_hero": "1033"
+        },
+        {
+            "id": "1034001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1034001201-icon.webp",
+            "slug": "default-1034001201",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1034001301-icon.webp",
+            "slug": "default-1034001301",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034300205",
+            "name": "Subway Rat Blaster",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/subway-rat-blaster-1034300205-icon.webp",
+            "slug": "subway-rat-blaster-1034300205",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034300305",
+            "name": "Cleansing Edge",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/cleansing-edge-1034300305-icon.webp",
+            "slug": "cleansing-edge-1034300305",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034501203",
+            "name": "Playing Human",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/playing-human-1034501203-icon.webp",
+            "slug": "playing-human-1034501203",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034501303",
+            "name": "Be Superior",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/be-superior-1034501303-icon.webp",
+            "slug": "be-superior-1034501303",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034800202",
+            "name": "Good Catch",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/good-catch-1034800202-icon.webp",
+            "slug": "good-catch-1034800202",
+            "description": null,
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1034800304",
+            "name": "I Am Iron Man",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/i-am-iron-man-1034800304-icon.webp",
+            "slug": "i-am-iron-man-1034800304",
+            "description": "\"It’s not about how much we lost, it’s about how much we have left. We’re the Avengers. We gotta finish this.\"",
+            "associated_hero": "1034"
+        },
+        {
+            "id": "1035001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1035001201-icon.webp",
+            "slug": "default-1035001201",
+            "description": null,
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1035001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1035001301-icon.webp",
+            "slug": "default-1035001301",
+            "description": null,
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1035300204",
+            "name": "Refuse To Melt",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/refuse-to-melt-1035300204-icon.webp",
+            "slug": "refuse-to-melt-1035300204",
+            "description": null,
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1035300304",
+            "name": "Snowflake Catcher",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/snowflake-catcher-1035300304-icon.webp",
+            "slug": "snowflake-catcher-1035300304",
+            "description": "Catching snowflakes with your tongue isn’t just for kids—it's for Symbiotes too!",
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1035501202",
+            "name": "Just Spark",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/just-spark-1035501202-icon.webp",
+            "slug": "just-spark-1035501202",
+            "description": null,
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1035501302",
+            "name": "Acting On Instinct",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/acting-on-instinct-1035501302-icon.webp",
+            "slug": "acting-on-instinct-1035501302",
+            "description": null,
+            "associated_hero": "1035"
+        },
+        {
+            "id": "1036001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1036001201-icon.webp",
+            "slug": "default-1036001201",
+            "description": null,
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1036001301-icon.webp",
+            "slug": "default-1036001301",
+            "description": null,
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036501204",
+            "name": "Spider Yoyo",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/spider-yoyo-1036501204-icon.webp",
+            "slug": "spider-yoyo-1036501204",
+            "description": null,
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036501304",
+            "name": "No Other Choice",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/no-other-choice-1036501304-icon.webp",
+            "slug": "no-other-choice-1036501304",
+            "description": "\"I've misplaced clothes before, but losing my Spider-Suit? That's just embarrassing! But you know what they say, crime doesn't wait for you to put your shoes on!\"",
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036503206",
+            "name": "Once Bonded Twice Shy",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/once-bonded-twice-shy-1036503206-icon.webp",
+            "slug": "once-bonded-twice-shy-1036503206",
+            "description": null,
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036800203",
+            "name": "Wrong Spell",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/wrong-spell-1036800203-icon.webp",
+            "slug": "wrong-spell-1036800203",
+            "description": null,
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1036800303",
+            "name": "Three Generations",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/three-generations-1036800303-icon.webp",
+            "slug": "three-generations-1036800303",
+            "description": "Our friendly neighborhood protectors will save the day again! Here come the Spider-Men!",
+            "associated_hero": "1036"
+        },
+        {
+            "id": "1037001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1037001201-icon.webp",
+            "slug": "default-1037001201",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1037001301-icon.webp",
+            "slug": "default-1037001301",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037101204",
+            "name": "Cosmic Collapse",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/cosmic-collapse-1037101204-icon.webp",
+            "slug": "cosmic-collapse-1037101204",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037500202",
+            "name": "Magnetic Steps",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/magnetic-steps-1037500202-icon.webp",
+            "slug": "magnetic-steps-1037500202",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037500302",
+            "name": "Final Warning",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/final-warning-1037500302-icon.webp",
+            "slug": "final-warning-1037500302",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037501203",
+            "name": "Past No More",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/past-no-more-1037501203-icon.webp",
+            "slug": "past-no-more-1037501203",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1037501303",
+            "name": "For All Mutants",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/for-all-mutants-1037501303-icon.webp",
+            "slug": "for-all-mutants-1037501303",
+            "description": null,
+            "associated_hero": "1037"
+        },
+        {
+            "id": "1038001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1038001201-icon.webp",
+            "slug": "default-1038001201",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1038001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1038001301-icon.webp",
+            "slug": "default-1038001301",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1038501205",
+            "name": "Flamenco",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/flamenco-1038501205-icon.webp",
+            "slug": "flamenco-1038501205",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1038501303",
+            "name": "Making An Entrance",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/making-an-entrance-1038501303-icon.webp",
+            "slug": "making-an-entrance-1038501303",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1038800202",
+            "name": "Timeless Appeal",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/timeless-appeal-1038800202-icon.webp",
+            "slug": "timeless-appeal-1038800202",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1038800302",
+            "name": "Paths To Reunion",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/paths-to-reunion-1038800302-icon.webp",
+            "slug": "paths-to-reunion-1038800302",
+            "description": null,
+            "associated_hero": "1038"
+        },
+        {
+            "id": "1039001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1039001201-icon.webp",
+            "slug": "default-1039001201",
+            "description": null,
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1039001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1039001301-icon.webp",
+            "slug": "default-1039001301",
+            "description": null,
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1039500203",
+            "name": "Thunder Shines On Me",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/thunder-shines-on-me-1039500203-icon.webp",
+            "slug": "thunder-shines-on-me-1039500203",
+            "description": null,
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1039500302",
+            "name": "Darkness No More",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/darkness-no-more-1039500302-icon.webp",
+            "slug": "darkness-no-more-1039500302",
+            "description": null,
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1039800202",
+            "name": "Please Don T Go",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/please-don-t-go-1039800202-icon.webp",
+            "slug": "please-don-t-go-1039800202",
+            "description": null,
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1039800304",
+            "name": "Love And Thunder",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/love-and-thunder-1039800304-icon.webp",
+            "slug": "love-and-thunder-1039800304",
+            "description": "I have something worth fighting for, and nothing will hinder Love and Thunder!",
+            "associated_hero": "1039"
+        },
+        {
+            "id": "1040001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1040001201-icon.webp",
+            "slug": "default-1040001201",
+            "description": null,
+            "associated_hero": "1040"
+        },
+        {
+            "id": "1040001204",
+            "name": "Missed Chance",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/missed-chance-1040001204-icon.webp",
+            "slug": "missed-chance-1040001204",
+            "description": null,
+            "associated_hero": "1040"
+        },
+        {
+            "id": "1040001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1040001301-icon.webp",
+            "slug": "default-1040001301",
+            "description": null,
+            "associated_hero": "1040"
+        },
+        {
+            "id": "1040500202",
+            "name": "Double Impact",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/double-impact-1040500202-icon.webp",
+            "slug": "double-impact-1040500202",
+            "description": null,
+            "associated_hero": "1040"
+        },
+        {
+            "id": "1040500302",
+            "name": "Surging Darkness",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/surging-darkness-1040500302-icon.webp",
+            "slug": "surging-darkness-1040500302",
+            "description": null,
+            "associated_hero": "1040"
+        },
+        {
+            "id": "1041001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1041001201-icon.webp",
+            "slug": "default-1041001201",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1041001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1041001301-icon.webp",
+            "slug": "default-1041001301",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1041300204",
+            "name": "Bat Capture",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/bat-capture-1041300204-icon.webp",
+            "slug": "bat-capture-1041300204",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1041300303",
+            "name": "Lone Star S Shine",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/lone-star-s-shine-1041300303-icon.webp",
+            "slug": "lone-star-s-shine-1041300303",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1041500202",
+            "name": "Brand New Arm",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/brand-new-arm-1041500202-icon.webp",
+            "slug": "brand-new-arm-1041500202",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1041500302",
+            "name": "Let S Play",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/let-s-play-1041500302-icon.webp",
+            "slug": "let-s-play-1041500302",
+            "description": null,
+            "associated_hero": "1041"
+        },
+        {
+            "id": "1042001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1042001201-icon.webp",
+            "slug": "default-1042001201",
+            "description": null,
+            "associated_hero": "1042"
+        },
+        {
+            "id": "1042001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1042001301-icon.webp",
+            "slug": "default-1042001301",
+            "description": null,
+            "associated_hero": "1042"
+        },
+        {
+            "id": "1042500202",
+            "name": "Lost Control",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/lost-control-1042500202-icon.webp",
+            "slug": "lost-control-1042500202",
+            "description": null,
+            "associated_hero": "1042"
+        },
+        {
+            "id": "1042500302",
+            "name": "Going Crazy",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/going-crazy-1042500302-icon.webp",
+            "slug": "going-crazy-1042500302",
+            "description": null,
+            "associated_hero": "1042"
+        },
+        {
+            "id": "1043001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1043001201-icon.webp",
+            "slug": "default-1043001201",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1043001301-icon.webp",
+            "slug": "default-1043001301",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043300204",
+            "name": "Lion Roll",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/lion-roll-1043300204-icon.webp",
+            "slug": "lion-roll-1043300204",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043300304",
+            "name": "Lion Dance",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/lion-dance-1043300304-icon.webp",
+            "slug": "lion-dance-1043300304",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043500203",
+            "name": "Feel The Energy",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/feel-the-energy-1043500203-icon.webp",
+            "slug": "feel-the-energy-1043500203",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043500303",
+            "name": "Sun S Out Guns Out",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/sun-s-out-guns-out-1043500303-icon.webp",
+            "slug": "sun-s-out-guns-out-1043500303",
+            "description": "\"You say you are master of the dark? The Void? I'm Master of the Sun.\"",
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043800202",
+            "name": "Dance Like Always",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/dance-like-always-1043800202-icon.webp",
+            "slug": "dance-like-always-1043800202",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1043800302",
+            "name": "We Re A Team",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/we-re-a-team-1043800302-icon.webp",
+            "slug": "we-re-a-team-1043800302",
+            "description": null,
+            "associated_hero": "1043"
+        },
+        {
+            "id": "1045001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1045001201-icon.webp",
+            "slug": "default-1045001201",
+            "description": null,
+            "associated_hero": "1045"
+        },
+        {
+            "id": "1045001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1045001301-icon.webp",
+            "slug": "default-1045001301",
+            "description": null,
+            "associated_hero": "1045"
+        },
+        {
+            "id": "1045800202",
+            "name": "Líik Ik Talokan",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/liik-ik-talokan-1045800202-icon.webp",
+            "slug": "liik-ik-talokan-1045800202",
+            "description": null,
+            "associated_hero": "1045"
+        },
+        {
+            "id": "1045800302",
+            "name": "K Uk Ulkan Of Talokan",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/k-uk-ulkan-of-talokan-1045800302-icon.webp",
+            "slug": "k-uk-ulkan-of-talokan-1045800302",
+            "description": null,
+            "associated_hero": "1045"
+        },
+        {
+            "id": "1046001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1046001201-icon.webp",
+            "slug": "default-1046001201",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1046001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1046001301-icon.webp",
+            "slug": "default-1046001301",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1046301204",
+            "name": "Innocence Reborn",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/innocence-reborn-1046301204-icon.webp",
+            "slug": "innocence-reborn-1046301204",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1046301304",
+            "name": "Cut Divine Ties",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/cut-divine-ties-1046301304-icon.webp",
+            "slug": "cut-divine-ties-1046301304",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1046800202",
+            "name": "Sovereign Strength",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/sovereign-strength-1046800202-icon.webp",
+            "slug": "sovereign-strength-1046800202",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1046800302",
+            "name": "Save The Day",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/save-the-day-1046800302-icon.webp",
+            "slug": "save-the-day-1046800302",
+            "description": null,
+            "associated_hero": "1046"
+        },
+        {
+            "id": "1047001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1047001201-icon.webp",
+            "slug": "default-1047001201",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1047001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1047001301-icon.webp",
+            "slug": "default-1047001301",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1047300203",
+            "name": "All You Can Eat",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/all-you-can-eat-1047300203-icon.webp",
+            "slug": "all-you-can-eat-1047300203",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1047300303",
+            "name": "How Ice Sculpting Works",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/how-ice-sculpting-works-1047300303-icon.webp",
+            "slug": "how-ice-sculpting-works-1047300303",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1047500202",
+            "name": "Keep It Up",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/keep-it-up-1047500202-icon.webp",
+            "slug": "keep-it-up-1047500202",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1047500302",
+            "name": "Not A Shark",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/not-a-shark-1047500302-icon.webp",
+            "slug": "not-a-shark-1047500302",
+            "description": null,
+            "associated_hero": "1047"
+        },
+        {
+            "id": "1048001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1048001201-icon.webp",
+            "slug": "default-1048001201",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1048001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1048001301-icon.webp",
+            "slug": "default-1048001301",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1048300203",
+            "name": "Shadow Strike",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/shadow-strike-1048300203-icon.webp",
+            "slug": "shadow-strike-1048300203",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1048300303",
+            "name": "Butterfly Effect",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/butterfly-effect-1048300303-icon.webp",
+            "slug": "butterfly-effect-1048300303",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1048500202",
+            "name": "Kiza",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/kiza-1048500202-icon.webp",
+            "slug": "kiza-1048500202",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1048500302",
+            "name": "This Is My Way",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/this-is-my-way-1048500302-icon.webp",
+            "slug": "this-is-my-way-1048500302",
+            "description": null,
+            "associated_hero": "1048"
+        },
+        {
+            "id": "1049001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1049001201-icon.webp",
+            "slug": "default-1049001201",
+            "description": null,
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1049001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1049001301-icon.webp",
+            "slug": "default-1049001301",
+            "description": null,
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1049300205",
+            "name": "Hone Claws",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/hone-claws-1049300205-icon.webp",
+            "slug": "hone-claws-1049300205",
+            "description": null,
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1049300305",
+            "name": "Blood Barrage",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/blood-barrage-1049300305-icon.webp",
+            "slug": "blood-barrage-1049300305",
+            "description": "The rage of the Wolverine is a force no one can challenge, not even the most menacing blood moon. Newborn monsters cower before the apex predator.",
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1049800204",
+            "name": "I Don T Play Nice",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/i-don-t-play-nice-1049800204-icon.webp",
+            "slug": "i-don-t-play-nice-1049800204",
+            "description": null,
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1049800304",
+            "name": "Maximum Effort",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/maximum-effort-1049800304-icon.webp",
+            "slug": "maximum-effort-1049800304",
+            "description": null,
+            "associated_hero": "1049"
+        },
+        {
+            "id": "1050001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1050001201-icon.webp",
+            "slug": "default-1050001201",
+            "description": null,
+            "associated_hero": "1050"
+        },
+        {
+            "id": "1050001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1050001301-icon.webp",
+            "slug": "default-1050001301",
+            "description": null,
+            "associated_hero": "1050"
+        },
+        {
+            "id": "1050500202",
+            "name": "Inner Turmoil",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/inner-turmoil-1050500202-icon.webp",
+            "slug": "inner-turmoil-1050500202",
+            "description": null,
+            "associated_hero": "1050"
+        },
+        {
+            "id": "1050500302",
+            "name": "Malicious Whirlwind",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/malicious-whirlwind-1050500302-icon.webp",
+            "slug": "malicious-whirlwind-1050500302",
+            "description": null,
+            "associated_hero": "1050"
+        },
+        {
+            "id": "1052001201",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Emote",
+            "icon": "/items/Emote/default-1052001201-icon.webp",
+            "slug": "default-1052001201",
+            "description": null,
+            "associated_hero": "1052"
+        },
+        {
+            "id": "1052001301",
+            "name": "Default",
+            "quality": "Default",
+            "type": "Mvp",
+            "icon": "/items/Mvp/default-1052001301-icon.webp",
+            "slug": "default-1052001301",
+            "description": null,
+            "associated_hero": "1052"
+        },
+        {
+            "id": "1052300203",
+            "name": "Blessed Lion",
+            "quality": "Epic",
+            "type": "Emote",
+            "icon": "/items/Emote/blessed-lion-1052300203-icon.webp",
+            "slug": "blessed-lion-1052300203",
+            "description": null,
+            "associated_hero": "1052"
+        },
+        {
+            "id": "1052300303",
+            "name": "Lion Dance",
+            "quality": "Legendary",
+            "type": "Mvp",
+            "icon": "/items/Mvp/lion-dance-1052300303-icon.webp",
+            "slug": "lion-dance-1052300303",
+            "description": "Auspicious lions leap to welcome spring's embrace, Good fortune arrives, bringing joy and grace!",
+            "associated_hero": "1052"
+        },
+        {
+            "id": "1052500202",
+            "name": "Easy Peasy",
+            "quality": "Rare",
+            "type": "Emote",
+            "icon": "/items/Emote/easy-peasy-1052500202-icon.webp",
+            "slug": "easy-peasy-1052500202",
+            "description": null,
+            "associated_hero": "1052"
+        },
+        {
+            "id": "1052500302",
+            "name": "Sword Of Fu Xi",
+            "quality": "Epic",
+            "type": "Mvp",
+            "icon": "/items/Mvp/sword-of-fu-xi-1052500302-icon.webp",
+            "slug": "sword-of-fu-xi-1052500302",
+            "description": null,
+            "associated_hero": "1052"
+        }
+    ]
+}

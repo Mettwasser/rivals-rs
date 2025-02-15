@@ -2,22 +2,22 @@ use serde::Deserialize;
 
 #[derive(Deserialize, Debug, Clone, PartialEq, Eq, PartialOrd, Ord)]
 pub struct BattlePass {
-    season: i64,
+    pub season: i64,
 
-    season_name: String,
+    pub season_name: String,
 
-    items: Vec<Item>,
+    pub items: Vec<BattlepassItem>,
 }
 
 #[derive(Deserialize, Debug, Clone, PartialEq, Eq, PartialOrd, Ord)]
 #[serde(rename_all = "camelCase")]
-pub struct Item {
-    name: String,
+pub struct BattlepassItem {
+    pub name: String,
 
-    image: String,
+    pub image: String,
 
-    cost: String,
+    pub cost: String,
 
     /// Whether it's part of the free or premium track
-    is_luxury: bool,
+    pub is_luxury: bool,
 }
